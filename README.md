@@ -91,4 +91,3 @@ This drastic contrast underscores the profound disproportion in healthcare acces
 ## External factors: Developed v.s. Developing Countries
 ![PESTEL_Full1](https://github.com/jazzy-github222/VitaBridge-Solutions/raw/e40246b6faa9ede924cb82261ac5f992340cc984/Screenshots/PESTEL_Full1.jpg)
 
-
