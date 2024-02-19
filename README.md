@@ -56,7 +56,7 @@ Nonetheless, even though the dataset provides alcohol consumption data recorded 
 ## Research Question 1: On average, do people in developed or developing countries live longer?
 
 The purpose of the analysis is to see if developed and developing countries have different life expectancy.
-The Jupyter Notebook file related to this part of the analysis is: country_status_vs_life_expect.ipynb.
+The Jupyter Notebook file related to this part of the analysis is: [country_status_vs_life_expect.ipynb](https://github.com/jazzy-github222/VitaBridge-Solutions/blob/da052162d319e64e0a2040d5c0bad47043ed5cc0/country_status_vs_life_expect.ipynb).
 
 In our findings, we observe that people in developed countries tend to live longer than those in developing countries. 
 Developed nations: 77 to 80 years
