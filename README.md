@@ -28,8 +28,6 @@ We are looking for $2M in funding which will go to;
 - dataset 
 
 
-## Happy Coding 🎉
-
 ----------------------------------------------------------------------------------------------------------------------------
 
 # 7_Project 1 Life Expectancy
