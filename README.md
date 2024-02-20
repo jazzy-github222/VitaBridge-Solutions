@@ -89,3 +89,21 @@ This drastic contrast underscores the profound disproportion in healthcare acces
 ## External factors: Developed v.s. Developing Countries
 ![PESTEL_Full1](https://github.com/jazzy-github222/VitaBridge-Solutions/raw/e40246b6faa9ede924cb82261ac5f992340cc984/Screenshots/PESTEL_Full1.jpg)
 
+Research Question: Do countries with a higher GDP spend more on the healthcare of their citizens? - Big Picture
+
+Since the dataset is arranged by the 193 countries, over the span of 15 years (2000-2015), we have found the average of the GDP and the percentage expenditure throughout the years to complete the analysis. In order to answer the research question, a scatterplot was used to see the big picture of the data. It was found that there is a positive correlation between a country's GDP and their percentage health expenditure. The data exemplified that as there is more money for a country to spend, there is an increase in the amount spent of healthcare.
+
+Consideration:
+
+With the dataset, there are some considerations to be made. The way in which the data is set up, the percentages for health expenditure are over 100 percent. Since the data is an accumulation over the years, the percentages could be signficantly higher as compared to previous years and therefore is significantly over 100 percent. 
+
+Research Question: Do countries that spend more on healthcare have less disease? - Analyzing immunization rates 
+
+In order to tackle the research question, the dataset was sorted into the countries spending the most and the least on healthcare. When looking at data, we pulled out the immunization rates of the top 5 and bottom 5 countries, and sorted by the percentage expenditure and the immunization rates for Hepatitus B, Diphteria and Polio. Additionally, the life expectancy of each of the ten countries were also added to the table in order to make the comparisons. Through the utilization of a bar graph, we displayed the immunization rates among the top and bottom countries for each of the above-mentioned diseases. The graph demonstrated the consistency in immunization rates for the top countries, and the inconsistent immunization for the bottom countries.
+
+Analysis: 
+
+The top five countries versus the bottom five countries have approximately 20 years of difference when it comes to life expectancy. With the graph depicting the immunization rate, we can see that the higher rates of immunization is directly linked to higher life expectancy. The countries spending less on health still have high rates of immunization, however, the life expectancy is still approximately 20 years less than the top five countries. 
+One highlight in the data is that the top 5 countries are also seeing rates of less immunization like Canada and Sweden for Hep. B. A hypothesis that can be made is that these countries may have gotten to a point where these diseases are no longer a threat and therefore immunization is not necessary.  
+As immunization is a vital factor to life expectancy but additional factors also need to be considered such as quality of life, diet, availability/access to immunization/medical, environmental factors and variables are also needed to be looked at to see if life expectancy can be increased. In conclusion, we can see that prioritization on immunization of citizens is vital in improving life expectancy and the more consistency in immunization rates significantly improves the life expectancy of the country's citizens.
+
