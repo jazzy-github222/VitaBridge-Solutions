@@ -1,4 +1,4 @@
-# VitaBridge Solutions 🌱 
+# Jasleen's Research 🌱 
 Welcome to VitaBridge Solutions! We're dedicated to unraveling the secrets of longevity through insightful economic and health analyses.
 
 **Co-Founders:** Jasleen, Vanilla, Seethalakshmi
