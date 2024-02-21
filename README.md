@@ -20,8 +20,6 @@ We are looking for $2M in funding which will go to;
 - Operational Expenses: ($200,000) 
 
 
-----------------------------------------------------------------------------------------------------------------------------
-
 # Life Expectancy 🌍
 
 ## Dataset:
