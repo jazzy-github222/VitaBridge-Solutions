@@ -9,7 +9,7 @@ Welcome to VitaBridge Solutions! We're dedicated to unraveling the secrets of lo
 1. On average do developed or developing countries live longer?
 2. Do countries with high gdp spend more on health (%) expenditure?
 3. Do countries that spend more on health (%) expenditure have less diseases?
-4. How do diseases affect longevity?
+4. How do diseases affect longevity? What are the top and bottom 5 countries?
 
 ## Funding Ask 💵
 We are looking for $2M in funding which will go to;
