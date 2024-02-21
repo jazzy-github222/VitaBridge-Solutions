@@ -17,11 +17,7 @@ We are looking for $2M in funding which will go to;
 - Technology Infrastructure: ($400,000)
 - Talent Acquisition and Training: ($300,000)
 - Marketing and Outreach: ($500,000)
-- Operational Expenses: ($200,000)
-
-## Links 🌐 
-- presentation
-- dataset 
+- Operational Expenses: ($200,000) 
 
 
 ----------------------------------------------------------------------------------------------------------------------------
