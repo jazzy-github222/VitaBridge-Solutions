@@ -11,10 +11,6 @@ Welcome to VitaBridge Solutions! We're dedicated to unraveling the secrets of lo
 3. Do countries that spend more on health (%) expenditure have less diseases?
 4. How do diseases affect longevity?
 
-
-## Analysis 💡
-
-
 ## Funding Ask 💵
 We are looking for $2M in funding which will go to;
 - Research and Development (R&D): ($600,000)
