@@ -22,7 +22,7 @@ We are looking for $2M in funding which will go to;
 
 ----------------------------------------------------------------------------------------------------------------------------
 
-# 7_Project 1 Life Expectancy
+# Life Expectancy
 
 ## Dataset:
 Life Expectancy (WHO)
